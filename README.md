@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christiandots" alt="christiandots" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/christiandots/Portfolio_Christian.git](https://github.com/christiandots/Portfolio_Christian.git)
+- 👨‍💻 All of my projects are available at [christian-regis.netlify.app)
 
 - 📫 How to reach me **christiansregi12@gmail.com**
-
-- 📄 Know about my experiences [Développer Full-stack avec plus de 1 ans d’expérience dans la création site web et applications. Passionnée par la nouvelle technologie et la résolution de problème. Compétence o Html, Css ; O Sql, Php ; O Devops ; O Java ; O React Native ; o Laravel ; o Microsoft Office (Word, Excel, Powerpoint, Access : Avancé). o Bonne compétence aux utilisations de la distribution Linux. Expérience ❖ DÉVELOPPER FULL-STACK- GIT (Groupe des Informaticiens de Tamatave) : 2023-2024 • Conception et développement de sites web et applications • Collaborations avec les équipés de conception pour assurer l’alignement sur besoin des clients](Développer Full-stack avec plus de 1 ans d’expérience dans la création site web et applications. Passionnée par la nouvelle technologie et la résolution de problème. Compétence o Html, Css ; O Sql, Php ; O Devops ; O Java ; O React Native ; o Laravel ; o Microsoft Office (Word, Excel, Powerpoint, Access : Avancé). o Bonne compétence aux utilisations de la distribution Linux. Expérience ❖ DÉVELOPPER FULL-STACK- GIT (Groupe des Informaticiens de Tamatave) : 2023-2024 • Conception et développement de sites web et applications • Collaborations avec les équipés de conception pour assurer l’alignement sur besoin des clients)
 
 - ⚡ Fun fact **I create youtube videos**
 
